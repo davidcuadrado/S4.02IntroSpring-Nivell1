@@ -11,7 +11,7 @@ This is an introductory-level project using Spring Boot, designed to demonstrate
 · Spring Boot 3.3.4
 
 
-📋 Prerquisites
+📋 Prerequisites
 
 · Java 17 or higher 
 
