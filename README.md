@@ -75,8 +75,8 @@ Ensure that the container is configured to run in your desired cloud environment
 5. Create a pull request.
 
 
-🔗 Helpful links: 
+🔗 Helpful resources: 
 
-· https://www.geeksforgeeks.org/mvc-design-pattern/
-· https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
-· https://www.youtube.com/watch?v=gPnd-hzM_6A
+· MVC Design Pattern: https://www.geeksforgeeks.org/mvc-design-pattern/
+· Entity Class Documentation: https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
+· REST API Request Validation & Exception Handling Realtime Example: https://www.youtube.com/watch?v=gPnd-hzM_6A
