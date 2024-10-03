@@ -6,13 +6,15 @@ This is an introductory-level project using Spring Boot, designed to demonstrate
 
 💻 Used technologies
 
-· Eclipse IDE 2024-03
+· Eclipse IDE 2024-03 
+
 · Spring Boot 3.3.4
 
 
 📋 Prerquisites
 
-· Java 17 or higher.
+· Java 17 or higher 
+
 · Maven 3.6+
 
 
