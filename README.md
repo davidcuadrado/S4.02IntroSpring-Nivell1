@@ -75,6 +75,6 @@ Ensure that the container is configured to run in your desired cloud environment
 
 🔗 Helpful links: 
 
-https://www.geeksforgeeks.org/mvc-design-pattern/
-https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
-https://www.youtube.com/watch?v=gPnd-hzM_6A
+· https://www.geeksforgeeks.org/mvc-design-pattern/
+· https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
+· https://www.youtube.com/watch?v=gPnd-hzM_6A
