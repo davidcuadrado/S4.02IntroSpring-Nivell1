@@ -4,12 +4,15 @@
 
 This is an introductory-level project using Spring Boot, designed to demonstrate how to create a basic application with web functionalities and database access using JPA.
 
+ 
+
 💻 Used technologies
 
 · Eclipse IDE 2024-03 
 
 · Spring Boot 3.3.4
 
+ 
 
 📋 Prerequisites
 
@@ -17,6 +20,7 @@ This is an introductory-level project using Spring Boot, designed to demonstrate
 
 · Maven 3.6+
 
+ 
 
 🛠️ Installation
 
@@ -27,6 +31,7 @@ This is an introductory-level project using Spring Boot, designed to demonstrate
 Build the project using Maven:
 > mvn clean install
 
+ 
 
 ▶️ Execution
 
@@ -38,11 +43,14 @@ With Maven:
 Running the JAR file:
 > java -jar target/filename.jar
 
+ 
 
 🔑 Key Features
 
 REST API: This project exposes RESTful endpoints to manage resources via HTTP.
 Data Access with JPA: The project uses Spring Data JPA to interact with the relational database.
+
+ 
 
 🌐 Deployment
 To deploy the application to a production environment, follow these steps:
@@ -66,6 +74,7 @@ Ensure that the container is configured to run in your desired cloud environment
 
 5. CI/CD Integration: For continuous deployment, integrate your repository with a CI/CD pipeline (e.g., GitHub Actions, Jenkins, GitLab CI) that automatically builds and deploys the application upon commits or merges to the main branch.
 
+ 
 
 🤝 Contributing
 1. Fork the repository.
@@ -74,9 +83,16 @@ Ensure that the container is configured to run in your desired cloud environment
 4. Push to the branch (git push origin feature/new-feature).
 5. Create a pull request.
 
+ 
 
 🔗 Helpful resources: 
 
-· MVC Design Pattern: https://www.geeksforgeeks.org/mvc-design-pattern/
-· Entity Class Documentation: https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
-· REST API Request Validation & Exception Handling Realtime Example: https://www.youtube.com/watch?v=gPnd-hzM_6A
+· MVC Design Pattern: 
+> https://www.geeksforgeeks.org/mvc-design-pattern/
+
+· Entity Class Documentation: 
+> https://docs.oracle.com/cd/E19316-01/819-3669/bnbro/index.html
+
+· REST API Request Validation & Exception Handling Realtime Example: 
+> https://www.youtube.com/watch?v=gPnd-hzM_6A
+
